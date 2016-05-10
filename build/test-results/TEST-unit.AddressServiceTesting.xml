@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unit.AddressServiceTesting" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-12-15T09:16:29" hostname="Lenovo-Globit" time="0.712">
+  <properties/>
+  <testcase name="saving a person in storage should set it's id" classname="unit.AddressServiceTesting" time="0.63"/>
+  <testcase name="saved persons should have unique ids" classname="unit.AddressServiceTesting" time="0.0"/>
+  <testcase name="saving a person in storage and then delete it then the created id should not exist" classname="unit.AddressServiceTesting" time="0.027"/>
+  <testcase name="saving a person in storage and then find it. The id of the found person should be the same entered id with find" classname="unit.AddressServiceTesting" time="0.052"/>
+  <testcase name="savine an with an unvalid zip code" classname="unit.AddressServiceTesting" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
